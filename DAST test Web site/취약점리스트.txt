@@ -1,0 +1,10 @@
+Code injection
+Command injection
+CRLF injection
+Directory listing
+Unverified redirection
+Predictable session
+Remote file inclusion
+SSI injection
+Cross site scripting
+Blind LDAP injection
